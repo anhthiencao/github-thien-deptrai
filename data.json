@@ -1,0 +1,58 @@
+[
+    {
+        "id": 0,
+        "name": "sven",
+        "age": 30,
+        "department": "Support",
+        "role": "EM"
+    },
+    {
+        "id": 1,
+        "name": "minh",
+        "age": 30,
+        "department": "Software",
+        "role": "SE"
+    },
+    {
+        "id": 2,
+        "name": "hung",
+        "age": 30,
+        "department": "Software",
+        "role": "SE"
+    },
+    {
+        "id": 3,
+        "name": "khoa",
+        "age": 30,
+        "department": "Software",
+        "role": "SE"
+    },
+    {
+        "id": 4,
+        "name": "thien",
+        "age": 30,
+        "department": "Software",
+        "role": "SE"
+    },
+    {
+        "id": 5,
+        "name": "luan",
+        "age": 30,
+        "department": "Network",
+        "role": "NE"
+    },
+    {
+        "id": 6,
+        "name": "van",
+        "age": 30,
+        "department": "Network",
+        "role": "NE"
+    },
+    {
+        "id": 7,
+        "name": "anh",
+        "age": 30,
+        "department": "Network",
+        "role": "NE"
+    }
+]
